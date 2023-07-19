@@ -1,8 +1,8 @@
 '''
+
 Team Name : eg-Tactile
 Module : Braille To Text & Character
 Version Number : 2.0
-Date : 26/4/2023
 
 '''
 
