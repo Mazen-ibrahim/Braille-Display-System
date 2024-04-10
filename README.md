@@ -4,8 +4,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="/media/mazen/programming/Braille to Text/BrailleSystem.jpg"  />
-</div>
+
 
 ###
