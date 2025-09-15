@@ -1,6 +1,6 @@
 # Braille Display System
 
-The **Braille Display System** is a graduation project developed by the **EG-tactile team** at FCIS, with the support of the **Orange Digital Centre**.  
+The **Braille Display System** is a graduation project developed by the **EG-tactile team** at **FCIS**, with the support of the **Orange Digital Center**.  
 This system was created to aid in the **education of blind and visually impaired people**, providing interactive learning and accessibility tools.
 
 ---
@@ -10,7 +10,7 @@ This system was created to aid in the **education of blind and visually impaired
 
 ---
 
-## ✨ Features
+## Features
 
 1. **Braille to Characters**  
    Learn braille alphabets, numbers, and commonly used symbols in everyday life.  
@@ -25,3 +25,7 @@ This system was created to aid in the **education of blind and visually impaired
    Convert text files into braille signs so the user can read them using the display.  
 
 ---
+
+
+## Screenshots
+[Braille Systems paper](BrailleSystem.jpg)
