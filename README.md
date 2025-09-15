@@ -1,9 +1,27 @@
-<br clear="both">
+# Braille Display System
 
-<p align="left">Braille-Display-System is a graduation project developed by the EG-tactile team at FCIS and supported by the Orange Digital Centre. It was developed to aid in the education of blind people. <br>1- It includes a module for learning braille alphabets, numbers, and often used signs in everyday life (Braille to Characters).    <br>2- It includes a module for writing braille and saving it as a text file (Braille to text).<br>3- It has a module for hearing the file's content (text to speech).<br>4- It has a module that reads text files and converts them to braille signs so that the user may read them (Text to Braille).</p>
+The **Braille Display System** is a graduation project developed by the **EG-tactile team** at FCIS, with the support of the **Orange Digital Centre**.  
+This system was created to aid in the **education of blind and visually impaired people**, providing interactive learning and accessibility tools.
 
-###
+---
 
+## 🎥 Demo
+👉 [Watch Demo Video](https://drive.google.com/drive/folders/1ZQ6dYak2NDnrfLx3g78-AhTp2auUd9wa?usp=sharing)
 
+---
 
-###
+## ✨ Features
+
+1. **Braille to Characters**  
+   Learn braille alphabets, numbers, and commonly used symbols in everyday life.  
+
+2. **Braille to Text**  
+   Write braille input and save it as a text file for later use.  
+
+3. **Text to Speech**  
+   Listen to the content of text files using speech synthesis.  
+
+4. **Text to Braille**  
+   Convert text files into braille signs so the user can read them using the display.  
+
+---
