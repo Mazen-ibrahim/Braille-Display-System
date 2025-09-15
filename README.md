@@ -28,4 +28,4 @@ This system was created to aid in the **education of blind and visually impaired
 
 
 ## Screenshots
-[Braille Systems paper](BrailleSystem.jpg)
+![Braille Systems paper](BrailleSystem.jpg)
